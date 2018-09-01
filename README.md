@@ -1,1 +1,1 @@
-# mood-lamp-using-pulse-width-modulation
+# Sophomore Team Design Project
